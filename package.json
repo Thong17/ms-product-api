@@ -1,0 +1,19 @@
+{
+  "name": "product-api",
+  "version": "1.0.0",
+  "description": "micro service for managing product, stock and sale",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thong17/ms-product-api.git"
+  },
+  "author": "Thong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thong17/ms-product-api/issues"
+  },
+  "homepage": "https://github.com/Thong17/ms-product-api#readme"
+}
